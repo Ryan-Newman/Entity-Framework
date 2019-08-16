@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp.SQLLite": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Ryan Newman\\Desktop\\MSSA\\Assignments\\ISTA 220\\ConsoleApp.SQLLite\\ConsoleApp.SQLLite\\Models"
+    }
+  }
+}

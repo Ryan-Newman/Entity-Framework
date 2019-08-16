@@ -1,0 +1,11 @@
+C:\Users\Ryan Newman\Desktop\MSSA\Assignments\ISTA 220\ConsoleApp.SQLLite\ConsoleApp.SQLLite\bin\Debug\netcoreapp2.2\ConsoleApp.SQLLite.deps.json
+C:\Users\Ryan Newman\Desktop\MSSA\Assignments\ISTA 220\ConsoleApp.SQLLite\ConsoleApp.SQLLite\bin\Debug\netcoreapp2.2\ConsoleApp.SQLLite.runtimeconfig.json
+C:\Users\Ryan Newman\Desktop\MSSA\Assignments\ISTA 220\ConsoleApp.SQLLite\ConsoleApp.SQLLite\bin\Debug\netcoreapp2.2\ConsoleApp.SQLLite.runtimeconfig.dev.json
+C:\Users\Ryan Newman\Desktop\MSSA\Assignments\ISTA 220\ConsoleApp.SQLLite\ConsoleApp.SQLLite\bin\Debug\netcoreapp2.2\ConsoleApp.SQLLite.dll
+C:\Users\Ryan Newman\Desktop\MSSA\Assignments\ISTA 220\ConsoleApp.SQLLite\ConsoleApp.SQLLite\bin\Debug\netcoreapp2.2\ConsoleApp.SQLLite.pdb
+C:\Users\Ryan Newman\Desktop\MSSA\Assignments\ISTA 220\ConsoleApp.SQLLite\ConsoleApp.SQLLite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLLite.csprojAssemblyReference.cache
+C:\Users\Ryan Newman\Desktop\MSSA\Assignments\ISTA 220\ConsoleApp.SQLLite\ConsoleApp.SQLLite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLLite.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Newman\Desktop\MSSA\Assignments\ISTA 220\ConsoleApp.SQLLite\ConsoleApp.SQLLite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLLite.AssemblyInfoInputs.cache
+C:\Users\Ryan Newman\Desktop\MSSA\Assignments\ISTA 220\ConsoleApp.SQLLite\ConsoleApp.SQLLite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLLite.AssemblyInfo.cs
+C:\Users\Ryan Newman\Desktop\MSSA\Assignments\ISTA 220\ConsoleApp.SQLLite\ConsoleApp.SQLLite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLLite.dll
+C:\Users\Ryan Newman\Desktop\MSSA\Assignments\ISTA 220\ConsoleApp.SQLLite\ConsoleApp.SQLLite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLLite.pdb
